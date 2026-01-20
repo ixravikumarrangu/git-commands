@@ -10,3 +10,4 @@
  9. git stash 
  10. git push origin main 
  11. git rm -r 
+ 12. 
