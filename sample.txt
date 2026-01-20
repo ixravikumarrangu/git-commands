@@ -8,3 +8,5 @@
  7. git checkout -b 
  8. git checkout 
  9. git stash 
+ 10. git push origin main 
+ 
